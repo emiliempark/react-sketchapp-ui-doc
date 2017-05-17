@@ -3,7 +3,7 @@
 	"bundleVersion": 1,
 	"commands": [
 		{
-			"name": "swatch",
+			"name": "thumbnail",
 			"identifier": "main",
 			"script": "./my-command.js"
 		}
@@ -15,3 +15,4 @@
 		]
 	}
 }
+
